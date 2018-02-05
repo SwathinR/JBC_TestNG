@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.test.selenium.SimpleApp_Test" duration-ms="12551" started-at="2018-02-05T22:05:59Z" finished-at="2018-02-05T22:06:11Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12551" started-at="2018-02-05T22:05:59Z" finished-at="2018-02-05T22:06:11Z">
+      <class name="com.test.selenium.SimpleApp_Test">
+        <test-method status="PASS" signature="SetUpBrowser()[pri:0, instance:com.test.selenium.SimpleApp_Test@5ebec15]" name="SetUpBrowser" is-config="true" duration-ms="9483" started-at="2018-02-06T03:35:59Z" finished-at="2018-02-06T03:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBrowser -->
+        <test-method status="PASS" signature="Test1_PageDisplay()[pri:0, instance:com.test.selenium.SimpleApp_Test@5ebec15]" name="Test1_PageDisplay" duration-ms="2159" started-at="2018-02-06T03:36:08Z" finished-at="2018-02-06T03:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1_PageDisplay -->
+        <test-method status="PASS" signature="Test2_VerifyCountMessage()[pri:1, instance:com.test.selenium.SimpleApp_Test@5ebec15]" name="Test2_VerifyCountMessage" duration-ms="628" started-at="2018-02-06T03:36:10Z" finished-at="2018-02-06T03:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_VerifyCountMessage -->
+        <test-method status="PASS" signature="Test3_VerifyCount_Empty_Message()[pri:2, instance:com.test.selenium.SimpleApp_Test@5ebec15]" name="Test3_VerifyCount_Empty_Message" duration-ms="266" started-at="2018-02-06T03:36:11Z" finished-at="2018-02-06T03:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_VerifyCount_Empty_Message -->
+      </class> <!-- com.test.selenium.SimpleApp_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.test.selenium.SimpleApp_Test -->
+</testng-results>
