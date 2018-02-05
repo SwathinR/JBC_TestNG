@@ -18,7 +18,7 @@ import com.test.selenium.PageObjects.ResultPage;
  * End to End test for simple App.
  */ 
 public class SimpleApp_Test
-{
+{ 
 	//Test Objects & Parameters
 	static DesiredCapabilities capabilities = null; 
     static WebDriver driver = null;
