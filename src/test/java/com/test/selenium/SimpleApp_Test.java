@@ -22,7 +22,7 @@ public class SimpleApp_Test
 	//Test Objects & Parameters
 	static DesiredCapabilities capabilities = null; 
     static WebDriver driver = null;
-    static String Browser = "firefox";
+    static String Browser = "chrome";
     static String App_URL= "http://rcchn0027:8090/welcome/jsp/welcome.jsp";
     static String TestData = "TestWord!";
     
